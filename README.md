@@ -1,5 +1,3 @@
-# 215_assignment0
 Ashleigh Steedman
-- Be attentive in class
-- Do all of my homework on time
-- Dont procrastinate 
+2135772
+To use git commands and make changes in your repository you will use these commands. First you will use ‘git add <file name>’ , this will tell git which files are going to be in the next commit. After this use ‘git commit -m “message here” ’ this explains the changes you’ve made so you can look back in the future to see what you've done. Last, you can use ‘git push origin <branch name>’  to get back to the branch if you are trying to push to a remote repository. 
